@@ -1,7 +1,5 @@
 ## Q-Learning-Smart-Home-Energy-Optimizer
 An autonomous Home Energy Management System (HEMS) built with Python and Reinforcement Learning (Tabular Q-Learning). Optimizes household appliance scheduling, HVAC cycles, and battery storage states against dynamic time-of-use (ToU) electricity pricing to minimize grid costs and maximize energy efficiency.
-# Autonomous Home Energy Management System (HEMS) via Q-Learning
-
 A production-grade, simulation-driven Reinforcement Learning (RL) application that optimizes energy consumption footprints in residential smart homes. Utilizing an optimized **Tabular Q-Learning** framework, the system algorithmically schedules controllable household loads, HVAC configurations, and energy storage systems (ESS) to minimize structural grid expenses while respecting consumer comfort baselines.
 
 ---
